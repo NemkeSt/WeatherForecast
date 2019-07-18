@@ -20,11 +20,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		04407AFD22CDED2A00B18E2F /* WeatherViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WeatherViewController.swift; path = ../../../vc/WeatherViewController.swift; sourceTree = "<group>"; };
-		04407AFF22CDED7300B18E2F /* ChangeCityViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ChangeCityViewController.swift; path = ../../../vc/ChangeCityViewController.swift; sourceTree = "<group>"; };
-		04407B0122CDED7F00B18E2F /* WeatherDataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WeatherDataModel.swift; path = ../../../vc/WeatherDataModel.swift; sourceTree = "<group>"; };
-		04407B0322CDED8900B18E2F /* DugorocnaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DugorocnaViewController.swift; path = ../../../vc/DugorocnaViewController.swift; sourceTree = "<group>"; };
-		04407B0522CDED9300B18E2F /* MyCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MyCell.swift; path = ../../../vc/MyCell.swift; sourceTree = "<group>"; };
+		04407AFD22CDED2A00B18E2F /* WeatherViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
+		04407AFF22CDED7300B18E2F /* ChangeCityViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChangeCityViewController.swift; sourceTree = "<group>"; };
+		04407B0122CDED7F00B18E2F /* WeatherDataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherDataModel.swift; sourceTree = "<group>"; };
+		04407B0322CDED8900B18E2F /* DugorocnaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DugorocnaViewController.swift; sourceTree = "<group>"; };
+		04407B0522CDED9300B18E2F /* MyCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCell.swift; sourceTree = "<group>"; };
 		04A0E1B722CDD57B00C63242 /* Weather Forecast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Weather Forecast.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04A0E1BA22CDD57B00C63242 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04A0E1BF22CDD57B00C63242 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
